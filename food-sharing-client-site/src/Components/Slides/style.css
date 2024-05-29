@@ -1,0 +1,49 @@
+.slide {
+
+
+    color: rgba(44, 44, 229);
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slider-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/gt2XnKx/banner1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/Y0kDNvK/Banner2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/YdcZ1qC/Banner3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-4 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/3sr0Lk2/Banner4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-5 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/WgCdTcK/Banner5.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-6 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/Bj44mhM/Banner6.jpg');
+    background-size: cover;
+    background-position: center;
+}
